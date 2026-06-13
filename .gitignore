@@ -3,7 +3,9 @@ datasets/
 logs/
 results/
 third_party/
-文档/
+文档/作业四说明.pdf
+文档/作业四报告模板*.docx
+文档/准备复现的代码.md
 __pycache__/
 *.pyc
 *.pt
