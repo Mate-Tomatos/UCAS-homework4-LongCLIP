@@ -1,0 +1,16 @@
+checkpoints/
+datasets/
+logs/
+results/
+third_party/
+文档/
+作业四报告.md
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.pth.tar
+*.zip
+*.log
+*.pdf
+*.docx
